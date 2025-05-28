@@ -80,7 +80,7 @@ Bạn có thể đăng nhập phần mềm bằng tài khoản admin hoặc tài
 
 - Nhận dạng: Đối với Admin, cho phép điểm danh tất cả các buổi học trong ngày của tất cả các giáo viên
 	
-  + Chọn "Moonhoc/Id" Bài học có trong ngày sau đó chọn Mở Camera để bắt đầu điểm dan
+  + Chọn "Monhoc/Id" Bài học có trong ngày sau đó chọn Mở Camera để bắt đầu điểm dan
 
   + Hệ thống sẽ thông báo ra màn hình những sinh viên điểm danh thành công và lưu lên database.
 
