@@ -1,0 +1,6 @@
+Pillow
+numpy
+thinker
+opencv-pyhton
+tkcalendar
+mysql-connector-python
