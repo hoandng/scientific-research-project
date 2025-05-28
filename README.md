@@ -11,16 +11,18 @@
 -Nếu không Start đc Apeche đổi cổng thành 8080.
 
 -MYSQL để mặc định ,không cần chỉnh sửa gì. 
+
 -Sau khi đã Start thành công Apache và MySQL mở PHPMyAdmin bằng đường dẫn: 
+
 >http://localhost/phpmyadmin/
 
 nếu đổi port Apeche sang 8080 thì truy cập:
 
 >http://localhost:8080/phpmyadmin/
 
-### (*) Tạo CSDL
+## 2) Tạo CSDL
 
-Sau khi vào trang chủ phpMyAdmin chọn "New"
++ Sau khi vào trang chủ phpMyAdmin chọn "New"
 
 ![Image](https://github.com/user-attachments/assets/40022d21-494d-4985-8235-d29e9f206b33)
 
@@ -32,9 +34,9 @@ Sau khi vào trang chủ phpMyAdmin chọn "New"
  
 ![Image](https://github.com/user-attachments/assets/b57c2646-4620-4597-8f7a-99cfb7e705e2)
 
-+ Click Chọn file và chọn file .sql trong source code
++ Click Chọn file và chọn file ".sql" trong source code
 
-### (*) Cài đặt Python (khuyên dùng bản 3.6.5) và Pycharm(Hoặc IDE nào có hỗ trợ Python)
+## 3) Cài đặt Python (khuyên dùng bản 3.6.5) và Pycharm(Hoặc IDE nào có hỗ trợ Python)
 
 Cài đặt các thư viện cần thiết để chạy App
   
@@ -46,16 +48,16 @@ Cài đặt các thư viện cần thiết để chạy App
     
     >pip + tên thư viện
   
-***Nếu thiếu thư viện nào bạn cài thêm nhé.
+*** Nếu thiếu thư viện nào bạn cài thêm nhé.
 
-### (*) Sau khi đã cài đặt xong Run file "login.py" để chạy chương trình
+## 4) Sau khi đã cài đặt xong Run file "login.py" để chạy chương trình
 	
 Bạn có thể đăng nhập bằng tài khoản Admin bằng cách chọn đăng nhập bằng Admin
 	
     Username:admin 
     Password:123456
 	
-## 3) Hướng dẫn sử dụng Phần mềm
+## 5) Hướng dẫn sử dụng
 Bạn có thể đăng nhập phần mềm bằng tài khoản admin hoặc tài khoản giáo viên.
 
 #### * Admin: cho phép sử dụng tất cả các chức năng của phần mềm.
